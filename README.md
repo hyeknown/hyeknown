@@ -1,16 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=hye_known&fontSize=70)
 
-<!--
-**hyeknown/hyeknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :hamster: hye_known :hamster:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Hanyang University IE Student
+- :computer:  Studying
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+
+- :hammer: Tools 
+
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeknown&show_icons=true&theme=dracula)
+
